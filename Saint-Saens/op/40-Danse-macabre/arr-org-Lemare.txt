@@ -1,0 +1,2 @@
+fifth bar from the end, pedal: quaver rest and note swapped
+(source for comparison: fe fs Durand 1875)
