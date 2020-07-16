@@ -1,0 +1,2 @@
+p.187  3rd last bar, Tenor, 3rd note: augmentation dot missing
+p.242  2nd system, 2nd bar, Alto, 1st note: read eb'

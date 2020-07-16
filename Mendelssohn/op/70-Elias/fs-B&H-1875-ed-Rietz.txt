@@ -1,0 +1,18 @@
+
+p. 12  2nd system, 1st bar, Fg./Cor.: superfluous rest
+p. 61  m.2–3 Fl.I & Cl.I slur missing
+p. 75  Trb. basso: crotchet rest missing from the end of the 1st system
+p. 80  m.5  choir soprano: ‘y’ missing from the English text
+p. 84  system start brace should encompass staves 4&5 (corni) not 5&6
+p.146  metronome indication for No. 18 has one flag missing (should read quaver=96)
+p.150  Ob.I end of 1st system superfluous tie
+p.167ff. English text: read ‘stormy billows’
+p.171  m.6  Org. 2nd note: read a#
+p.185  3rd last bar, English text: read ‘forth’
+p.235  m.2  Fg.: Mendelssohn wrote the hairpin simultaneous with the cresc.
+p.279  m.2  choir bass: forte dynamic missing
+p.288  m.3  Org. top voice, 1st note: read f5
+p.291  m.3  English text: read ‘judgements’
+p.292  m.4  Vc./Cb., 5th note: read g2
+p.294  first word of English text: read ‘heaven’
+p.336  m.6  Org. two crotchets a3 and g3 missing, cf. string basses
